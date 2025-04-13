@@ -5,7 +5,6 @@ Inflow is a smart bus surveillance system designed to monitor real-time passenge
 
 This system is especially useful for modern urban transit hubs like GIFT City, Gujarat, where it can be integrated into the E-Bus ecosystem to enhance surveillance, reduce overcrowding, and support smart city infrastructure.
 
-[![Watch the demo](https://youtu.be/5_c8sOi67d)](https://youtu.be/5_c8sOi67do)
 
 
 
@@ -71,3 +70,6 @@ Smart city integration (e.g., GIFT City, Gujarat)
 E-Bus surveillance and management
 
 Reducing overcrowding on public buses
+
+[![Watch the demo](https://youtu.be/5_c8sOi67d)](https://youtu.be/5_c8sOi67do)
+

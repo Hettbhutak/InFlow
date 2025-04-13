@@ -5,6 +5,9 @@ Inflow is a smart bus surveillance system designed to monitor real-time passenge
 
 This system is especially useful for modern urban transit hubs like GIFT City, Gujarat, where it can be integrated into the E-Bus ecosystem to enhance surveillance, reduce overcrowding, and support smart city infrastructure.
 
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/5_c8sOi67do)
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
